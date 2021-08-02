@@ -7,7 +7,7 @@
         <br>
         <b>Olá,</b>
         <br>
-        Eu me chamo Wanderson Calixto da Silva, sou formado em Ciência da Computação e trabalho há quase três anos com programação.<br>
+        Eu me chamo Wanderson Calixto da Silva, sou formado em Ciência da Computação e trabalho há quase quatro anos com programação.<br>
         Esta aplicação foi criada a partir do Desafio Prático do processo seletivo da Pulses.<br>
         Entre as diversas tecnologias utilizadas no desenvolvimento, pode-se listar:
        <ul>
