@@ -24,13 +24,7 @@
                     <li>Framework Web: BootStrap</li>                  
                 </ul>
             </li>
-        </ul>
-         <ul>
-            <li><b>Hospedagem: </b><ul>
-                    <li>Frontend: <a href="http://wandersonzetta.online/#/" target="_blank">Umbler</a></li>                  
-                </ul>
-            </li>
-        </ul>
+        </ul>        
         <ul>
             <li><b>Repostório</b><ul>
                     <li><a href="https://github.com/wandcalixto/desfio-pulses" target="_blank">Backend</a></li>
